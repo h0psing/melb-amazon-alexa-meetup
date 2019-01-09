@@ -7,9 +7,10 @@
 3.	Click <b>Create function</b>
 ![Create function 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-01.png)
 4.	Select <b>AWS Serverless Application Repository</b>
-![Create function 02](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-02.png)
+
 <br />  a. Pre-defined templates
 5.	Select <b>alexa-skills-ski-nodejs-factskill</b>
+![Create function 02](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-02.png)
 6.	Under <b>Application settings:</b> enter <b>Application name:</b> alexa-meetup-workshop-nodejs-factskill-function
 ![Create function 03](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-03.png)
 7.	Click <b>Deploy</b>
