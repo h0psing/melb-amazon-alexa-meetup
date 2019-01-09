@@ -22,7 +22,17 @@
 ![Create function 05](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-05.png)
 ![Create function 06](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-06.png)
 
+
+
+Go to IAM
+
 10. Go back to Alexa Dev
+Click Endpoint (LHS)
 
+Slect AWS Lambda ARN
 
+Pastearn:aws:lambda:ap-southeast-2:433148507647:function:aws-serverless-repository-alexaskillskitnodejsfact-134BMR79UZ1UQ
+into Default Region:
+![Configure skill endpoint 06](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Configure-skill-endpoint-01.png)
+Click Save Endpoints
 
