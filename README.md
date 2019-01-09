@@ -15,7 +15,7 @@ We're going to need to configure both our Alexa skill and AWS, which will requir
 5.	Click Create skill
 6.	Select: Start from scratch and click <b>Choose</b>
 7.	Click <b>Invocation</b> and enter value for <b>Skill Inovcation Name</b>
-    a.	Should be common words
+<br />    a.	Should be common words
     b.	Should be dictionary words
     c.	Acronyms and product names are risky
     d.	Check out the rules on the page
