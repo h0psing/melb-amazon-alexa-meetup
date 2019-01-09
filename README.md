@@ -26,13 +26,16 @@ We're going to need to configure both our Alexa skill and AWS, which will requir
 8.	Click <b>Intents</b>
 9.	Click <b>Add Intent</b>
 10.	Create custom intent: GetNewFactIntent
+![Create skill 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Add-intent-01.png)
 <br />  a.	Remember capitals 
+![Create skill 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Add-intent-02.png)
 11.	Click <b>Create custom intent</b>
 12.	Add sample utterances
 <br />  a.	Recommend 5-10-20 to capture of different ways to understand
 <br />  b.	A fact, a space fact, tell me a fact, tell me trivia, give me trivia, give me some information, give me something
 <br />  c.	Please generally doesn’t change the meaning of the request 
 <br />  d.	Fuzzy match – I want a fact should match even though it’s not explicitly stated
+![Create skill 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Add-intent-03.png)
 13.	Click <b>Save Model</b>
 14.	Click <b>Build Model</b>
 15.	Click <b>Endpoint</b>
