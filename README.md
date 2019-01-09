@@ -33,7 +33,7 @@ d.	Fuzzy match – I want a fact should match even though it’s not explicitly 
 14.	Click Build Model
 15.	Click Endpoint
 16.	Select AWS Lambda ARN
-17.	Default Region: arn:aws:lambda:us-east-1:433148507647:function:serverlessrepo-workshop-a-alexaskillskitnodejsfact-OJTX7KR5DVBH
+17.	Default Region: arn:aws:lambda:us-east-1:1234567890:function:workshop-getting-started-alexa-skill
 18.	Click Save Endpoints
 19.	Click Test
 20.	Skill testing is enabled in: Development
