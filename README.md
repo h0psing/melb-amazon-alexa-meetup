@@ -16,19 +16,19 @@ We're going to need to configure both our Alexa skill and AWS, which will requir
 6.	Select: Start from scratch and click <b>Choose</b>
 7.	Click <b>Invocation</b> and enter value for <b>Skill Inovcation Name</b>
 <br />    a.	Should be common words
-    b.	Should be dictionary words
-    c.	Acronyms and product names are risky
-    d.	Check out the rules on the page
+<br />    b.	Should be dictionary words
+<br />    c.	Acronyms and product names are risky
+<br />    d.	Check out the rules on the page
 8.	Click <b>Intents</b>
 9.	Click <b>Add Intent</b>
 10.	Create custom intent: GetNewFactIntent
-a.	Remember capitals 
+<br />  a.	Remember capitals 
 11.	Click <b>Create custom intent</b>
 12.	Add sample utterances
-a.	Recommend 5-10-20 to capture of different ways to understand
-b.	A fact, a space fact, tell me a fact, tell me trivia, give me trivia, give me some information, give me something
-c.	Please generally doesn’t change the meaning of the request 
-d.	Fuzzy match – I want a fact should match even though it’s not explicitly stated
+<br />  a.	Recommend 5-10-20 to capture of different ways to understand
+<br />  b.	A fact, a space fact, tell me a fact, tell me trivia, give me trivia, give me some information, give me something
+<br />  c.	Please generally doesn’t change the meaning of the request 
+<br />  d.	Fuzzy match – I want a fact should match even though it’s not explicitly stated
 13.	Click <b>Save Model</b>
 14.	Click <b>Build Model</b>
 15.	Click <b>Endpoint</b>
@@ -37,7 +37,7 @@ d.	Fuzzy match – I want a fact should match even though it’s not explicitly 
 18.	Click <b>Save Endpoints</b>
 19.	Click <b>Test</b>
 20.	Skill testing is enabled in: Development
-a.	Also can test directly on Amazon Echo device logged in as the same email
+<br />  a.	Also can test directly on Amazon Echo device logged in as the same email
 21.	Open workshop fact skill
 22.	Check JSON input and output
 
