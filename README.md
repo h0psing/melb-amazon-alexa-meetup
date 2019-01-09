@@ -11,8 +11,11 @@ We're going to need to configure both our Alexa skill and AWS, which will requir
 1.	Navigate to https://developer.amazon.com/alexa and sign in
 2.	Hover over <b>Your Alexa Consoles</b> and select <b>Skills</b>
 3.	Click <b>Create Skill</b>
-4.	Enter <b>Skill name:</b> Workshop Fact Skill Default language: English (AU), Skill model: Custom
-5.	Click Create skill
+4.	Enter 
+<br />  <b>Skill name:</b> Workshop Fact Skill 
+<br />  <b>Default language:</b> English (AU)
+<br />  <b>Skill model:</b> Custom
+5.	Click <b>Create skill</b>
 6.	Select: Start from scratch and click <b>Choose</b>
 7.	Click <b>Invocation</b> and enter value for <b>Skill Inovcation Name</b>
 <br />    a.	Should be common words
