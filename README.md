@@ -25,8 +25,8 @@ We're going to need to configure both our Alexa skill and AWS, which will requir
 <br />    d.	Check out the rules on the page
 8.	Click <b>Intents</b>
 9.	Click <b>Add Intent</b>
-10.	Create custom intent: GetNewFactIntent
 ![Create skill 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Add-intent-01.png)
+10.	Create custom intent: GetNewFactIntent
 <br />  a.	Remember capitals 
 ![Create skill 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Add-intent-02.png)
 11.	Click <b>Create custom intent</b>
