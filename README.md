@@ -1,28 +1,17 @@
-# Getting Started: Develop an Amazon Alexa Skill
+# Step 2: Create Lambda Function
 
 
-# What is this?
-This repo contains code and instructions to build an Amazon Alexa Skill with Node JS code hosted on AWS (Lambda).  It is split into 3 branches, each containing instructions for a different version of the app, walking you through the different steps of the configuration on each side.
+# Create Lambda Function
+1.	Navigate to https://aws.amazon.com and sign in
+2.	Click Lambda under All Services
+3.	Click Create function
+4.	Select AWS Serverless Application Repository
+a.	Pre-defined templates
+5.	Select alexa-skills-ski-nodejs-factskill
+6.	Under Application settings: enter Application name: workshop-alexa-skills-kit-nodejs-factskill
+7.	Click Deploy
+a.	Watch loading resources to create code, assign the role (permissions) then the trigger to tell lambda function to be triggered by Alexa
+8.	Go back to functions and open function
+9.	Note the arn: aws:lambda:us-east-1:1234567890:function:workshop-getting-started-alexa-skill
 
-## What is an Alexa skill?
-Alexa is Amazon’s voice service and the brain behind millions of devices including Amazon Echo. Alexa provides capabilities, or skills, that enable customers to create a more personalised experience. There are now thousands of skills available in Australia and New Zealand, from brands like Qantas, Westpac, Sky TV, NAB, Taste.com.au, hipages, Dimmi, SBS News, as well as innovative designers and developers.
-
-![app overview](docs/app_overview.gif)
-
-This app will give you an overview of the following components:
-- [Utternaces]
-- [Intents]
-
-## AWS config:
-
-This app will use 2 AWS' services:
-- [Alexa Developer](https://developer.amazon.com/alexa): Alexa Developer is Amazon's platform that is used to publish Alexa Skills.
-- [AWS Lambda](https://aws.amazon.com/lambda): AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume - there is no charge when your code is not running.
-
-# Get Started:
-
-## What you'll need
-- An AWS account allowing you to create a new Alexa Skill and Lambdas
-
-*Ready?* Move to the `step1` branch to get started with your Alexa Skill and AWS config.
 
