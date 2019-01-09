@@ -17,6 +17,7 @@ We're going to need to configure both our Alexa skill and AWS, which will requir
 <br />  <b>Skill model:</b> Custom
 5.	Click <b>Create skill</b>
 6.	Select: Start from scratch and click <b>Choose</b>
+![Create skill 02](/images/Create-skill-02.png)
 7.	Click <b>Invocation</b> and enter value for <b>Skill Inovcation Name</b>
 <br />    a.	Should be common words
 <br />    b.	Should be dictionary words
