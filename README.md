@@ -1,4 +1,4 @@
-# melb-amazon-alexa-meetup-getting-started
+# Getting Started: Develop an Amazon Alexa Skill
 
 
 # What is this?
