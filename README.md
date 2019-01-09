@@ -9,7 +9,7 @@ This repo contains code and instructions to build an Amazon Alexa Skill with Nod
 ## What is an Alexa skill?
 Alexa is Amazon's voice service and the brain behind millions of devices including Amazon Echo. Alexa provides capabilities, or skills, that enable customers to create a more personalised experience. There are now thousands of skills available in Australia and New Zealand, from brands like Qantas, Westpac, Sky TV, NAB, Taste.com.au, hipages, Dimmi, SBS News, as well as innovative designers and developers.
 
-![app overview](docs/app_overview.gif)
+![app overview](/images/Voice-Hub.png)
 
 This app will give you an overview of the following components:
 - [Utternaces]
