@@ -19,4 +19,10 @@
 8.	Go back to Applications and open application
 9.	Note the arn:aws:lambda:us-east-1:1234567890:function:workshop-getting-started-alexa-skill
 
+![Create function 05](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-05.png)
+![Create function 06](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-06.png)
+
+10. Go back to Alexa Dev
+
+
 
