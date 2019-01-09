@@ -1,5 +1,7 @@
 # Getting Started: Develop an Amazon Alexa Skill
 
+# Who are we?
+Welcome to the [Melbourne Amazon Alexa Meetup](https://www.meetup.com/Melbourne-Amazon-Alexa-Meetup) workshop: Getting Started: Develop an Amazon Alexa Skill.
 
 # What is this?
 This repo contains code and instructions to build an Amazon Alexa Skill with Node JS code hosted on AWS (Lambda).  It is split into 3 branches, each containing instructions for a different version of the app, walking you through the different steps of the configuration on each side.
