@@ -9,7 +9,7 @@ We're going to need to configure both our Alexa skill and AWS, which will requir
 
 ## Create Alexa Skill
 1.	Navigate to https://developer.amazon.com/alexa and sign in
-2.	Hover over Your Alexa Consoles and select Skills
+2.	Hover over <b>Your Alexa Consoles</b> and select Skills
 3.	Click Create Skill
 4.	Enter Skill name: Workshop Fact Skill, Default language: English (AU), Skill model: Custom
 5.	Click Create skill
