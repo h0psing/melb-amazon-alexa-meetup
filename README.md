@@ -1,28 +1,44 @@
-# Getting Started: Develop an Amazon Alexa Skill
+# Step 1: Create Alexa Skill
 
+As a first step, we're going to create an Alexa Skill and introduce you to key components: 
+Innovation name
+Intents
+Utteranes
 
-# What is this?
-This repo contains code and instructions to build an Amazon Alexa Skill with Node JS code hosted on AWS (Lambda).  It is split into 3 branches, each containing instructions for a different version of the app, walking you through the different steps of the configuration on each side.
+We're going to need to configure both our Alexa skill and AWS, which will require a bit of back and forth between the two services. Let's start on AWS' side as we'll need to get our server running before we can configure our Alexa skill.
 
-## What is an Alexa skill?
-Alexa is Amazon’s voice service and the brain behind millions of devices including Amazon Echo. Alexa provides capabilities, or skills, that enable customers to create a more personalised experience. There are now thousands of skills available in Australia and New Zealand, from brands like Qantas, Westpac, Sky TV, NAB, Taste.com.au, hipages, Dimmi, SBS News, as well as innovative designers and developers.
+## Create Alexa Skill
+1.	Navigate to https://developer.amazon.com/alexa and sign in
+2.	Hover over Your Alexa Consoles and select Skills
+3.	Click Create Skill
+4.	Enter Skill name: Workshop Fact Skill, Default language: English (AU), Skill model: Custom
+5.	Click Create skill
+6.	Select: Start from scratch and click Choose
+7.	Click Invocation
+a.	Should be common words
+b.	Should be dictionary words
+c.	Acronyms and product names are risky
+d.	Check out the rules on the page
+8.	Click Intents
+9.	Click Add Intent 
+10.	Create custom intent: GetNewFactIntent
+a.	Remember capitals 
+11.	Click Create custom intent
+12.	Add sample utterances
+a.	Recommend 5-10-20 to capture of different ways to understand
+b.	A fact, a space fact, tell me a fact, tell me trivia, give me trivia, give me some information, give me something
+c.	Please generally doesn’t change the meaning of the request 
+d.	Fuzzy match – I want a fact should match even though it’s not explicitly stated
+13.	Click Save Model
+14.	Click Build Model
+15.	Click Endpoint
+16.	Select AWS Lambda ARN
+17.	Default Region: arn:aws:lambda:us-east-1:433148507647:function:serverlessrepo-workshop-a-alexaskillskitnodejsfact-OJTX7KR5DVBH
+18.	Click Save Endpoints
+19.	Click Test
+20.	Skill testing is enabled in: Development
+a.	Also can test directly on Amazon Echo device logged in as the same email
+21.	Open workshop fact skill
+22.	Check JSON input and output
 
-![app overview](docs/app_overview.gif)
-
-This app will give you an overview of the following components:
-- [Utternaces]
-- [Intents]
-
-## AWS config:
-
-This app will use 2 AWS' services:
-- [Alexa Developer](https://developer.amazon.com/alexa): Alexa Developer is Amazon's platform that is used to publish Alexa Skills.
-- [AWS Lambda](https://aws.amazon.com/lambda): AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume - there is no charge when your code is not running.
-
-# Get Started:
-
-## What you'll need
-- An AWS account allowing you to create a new Alexa Skill and Lambdas
-
-*Ready?* Move to the `step1` branch to get started with your Alexa Skill and AWS config.
 
