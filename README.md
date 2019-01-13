@@ -11,7 +11,7 @@
 6.	Click <b>Save Endpoints</b>
 
 ## Test Skill
-7. Click on <b>Test</b>
+7. Click on <b>Test</b> in the top bar navigation
 8. Select <b>Skill testing is enabled in:</b> Development
 ![Test skill 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/test-skill-01.png)
 9 Enter test phrase (corresponding to utterance)
