@@ -29,26 +29,30 @@ We're going to need to configure both our Alexa skill and AWS, which will requir
 <br />    d.	Check out the rules on the page
 8.	Click <b>Intents</b>
 9.	Click <b>Add Intent</b>
-![Create skill 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Add-intent-01.png)
+![Add intent 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Add-intent-01.png)
 10.	Enter custom intent name: <b>GetNewFactIntent</b>
 <br />  a.	Remember capitals 
 <br />  a.	Make it meaningful 
-![Create skill 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Add-intent-02.png)
+![Add intent 02](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Add-intent-02.png)
 11.	Click <b>Create custom intent</b>
 12.	Add sample <b>utterances</b>
 <br />  a.	Recommended to have 15-20 to capture of different ways users can request the same intent
 <br />  b.	E.g. a fact, a space fact, tell me a fact, tell me trivia, give me trivia, give me some information, give me something, please tell me a fact
 <br />  c.	<b>Please</b> generally doesn’t change the meaning of the request 
 <br />  d.	Fuzzy match – <i><b>I want a fact</b></i> should match even though it’s not explicitly stated <br />
-![Create skill 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Add-intent-03.png)
+![Add intent 03](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Add-intent-03.png)
 13.	Click <b>Save Model</b>
 14.	Click <b>Build Model</b>
 15.	Click <b>Endpoint</b>
-16.	Select AWS Lambda ARN
+16.	Note the  AWS Lambda ARN <br />
+![Note ARN Endpoint 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Add-intent-02.png)
+
+*Ready?* Move to the `step-2` branch to create your Alexa Skill.
+
 17.	Default Region: arn:aws:lambda:us-east-1:1234567890:function:workshop-getting-started-alexa-skill
 
 
-*Ready?* Move to the `step-2` branch to create your Alexa Skill.
+
 
 18.	Click <b>Save Endpoints</b>
 19.	Click <b>Test</b>
