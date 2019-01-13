@@ -39,7 +39,7 @@ We're going to need to configure both our Alexa skill and AWS, which will requir
 <br />  a.	Recommended to have 15-20 to capture of different ways users can request the same intent
 <br />  b.	E.g. a fact, a space fact, tell me a fact, tell me trivia, give me trivia, give me some information, give me something, please tell me a fact
 <br />  c.	<b>Please</b> generally doesn’t change the meaning of the request 
-<br />  d.	Fuzzy match – <i><b>I want a fact</b></i> should match even though it’s not explicitly stated
+<br />  d.	Fuzzy match – <i><b>I want a fact</b></i> should match even though it’s not explicitly stated <br />
 ![Create skill 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Add-intent-03.png)
 13.	Click <b>Save Model</b>
 14.	Click <b>Build Model</b>
