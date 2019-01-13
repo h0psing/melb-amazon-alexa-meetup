@@ -21,17 +21,7 @@
 10.	Copy the <b>AWS Lambda ARN:</b> arn:aws:lambda:ap-southeast-2:433148507647:function:aws-serverless-repository-alexaskillskitnodejsfact-XXXXXXXXXXXXX
 ![Create function 06](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-06.png)
 
+*Completed step-2?* Move to the `step-3` branch to create complete your Alexa skill and also configure permissions in IAM (Identity  and Access Management.
 
 
-Go to IAM
-
-10. Go back to Alexa Dev
-Click Endpoint (LHS)
-
-Slect AWS Lambda ARN
-
-Pastearn:aws:lambda:ap-southeast-2:433148507647:function:aws-serverless-repository-alexaskillskitnodejsfact-134BMR79UZ1UQ
-into Default Region:
-![Configure skill endpoint 06](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Configure-skill-endpoint-01.png)
-Click Save Endpoints
 
