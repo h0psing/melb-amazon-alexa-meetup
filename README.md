@@ -8,13 +8,10 @@
 4.	Click <b>Endpoint</b>
 5.	Enter the copied AWS Lambda ARN from lambda function <br />
 ![Note ARN Endpoint 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/arn-endpoint-02.png)
-6.	Click <b>Save Model</b>
-7.	Click <b>Build Model</b>
+6.	Click <b>Save Endpoints</b>
 
 
-*Completed step-1?* Move to the `step-2` branch to create your lambda function and we will come back to the endpoint to finalise.
 
-*Completed step-2?* Move to the `step-3` branch to create complete your Alexa skill and also configure permissions in IAM (Identity  and Access Management.
 
 
 
