@@ -1,11 +1,11 @@
 # Step 1: Create Alexa Skill
 
-As a first step, we're going to create an Alexa Skill and introduce you to key components: 
-Innovation name
-Intents
-Utteranes
+As a first step, we're going to create an Alexa Skill and introduce you to the following key components: 
+- Invocation name
+- Intents
+- Utteranes
 
-We're going to need to configure both our Alexa skill and AWS, which will require a bit of back and forth between the two services. Let's start on AWS' side as we'll need to get our server running before we can configure our Alexa skill.
+We're going to need to configure both our Alexa skill and AWS, which will require a bit of back and forth between the two services. Let's start with creating a new Alexa skill.
 
 ## Create Alexa Skill
 1.	Navigate to https://developer.amazon.com/alexa and sign in
