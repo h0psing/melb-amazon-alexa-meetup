@@ -46,6 +46,10 @@ We're going to need to configure both our Alexa skill and AWS, which will requir
 15.	Click <b>Endpoint</b>
 16.	Select AWS Lambda ARN
 17.	Default Region: arn:aws:lambda:us-east-1:1234567890:function:workshop-getting-started-alexa-skill
+
+
+*Ready?* Move to the `step-2` branch to create your Alexa Skill.
+
 18.	Click <b>Save Endpoints</b>
 19.	Click <b>Test</b>
 20.	Skill testing is enabled in: Development
