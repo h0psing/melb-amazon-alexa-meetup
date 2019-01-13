@@ -37,5 +37,5 @@ Create your free Alexa developer account with the instructions below before we b
 
 *Ready?* Move to the `step1` branch to get started with your Alexa Skill and AWS config.
 
-
+![switch branch](/images/Switch-branch-01.png)
 
