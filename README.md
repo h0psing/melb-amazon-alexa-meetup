@@ -3,13 +3,14 @@
 
 # Enter AWS Lambda ARN, Save, Build and Test Skill
 1.	Navigate back to https://developer.amazon.com/alexa and sign in
-2.	Hover over <b>Your Alexa Consoles</b> and select <b>Skills</b><br /><br />
-3.  Open your skill: Workshop
-13.	Click <b>Save Model</b>
-14.	Click <b>Build Model</b>
-15.	Click <b>Endpoint</b>
-16.	Note the  AWS Lambda ARN <br />
-![Note ARN Endpoint 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/arn-endpoint-01.png)
+2.	Hover over <b>Your Alexa Consoles</b> and select <b>Skills</b><br />
+3.  Open your skill: Workshop Fact SKill
+4.	Click <b>Endpoint</b>
+5.	Enter the copied AWS Lambda ARN from lambda function <br />
+![Note ARN Endpoint 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/arn-endpoint-02.png)
+6.	Click <b>Save Model</b>
+7.	Click <b>Build Model</b>
+
 
 *Completed step-1?* Move to the `step-2` branch to create your lambda function and we will come back to the endpoint to finalise.
 
