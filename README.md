@@ -9,16 +9,18 @@ We're going to need to configure both our Alexa skill and AWS, which will requir
 
 ## Create Alexa Skill
 1.	Navigate to https://developer.amazon.com/alexa and sign in
-2.	Hover over <b>Your Alexa Consoles</b> and select <b>Skills</b><br  />
+2.	Hover over <b>Your Alexa Consoles</b> and select <b>Skills</b><br /><br />
 ![Open skills console](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/open-skills-console.png)
 <br />
-3.	Click <b>Create Skill</b>
+3.	Click <b>Create Skill</b> <br />
 4.	Enter <b>Skill name:</b> Workshop Fact Skill 
 <br />          <b>Default language:</b> English (AU)
 <br />         <b>Skill model:</b> Custom <br />
+
 ![Create skill 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-skill-01.png)
+
 5.	Click <b>Create skill</b>
-6.	Select: <b>Start from scratch</b> and click <b>Choose</b>
+6.	Select: <b>Start from scratch</b> and click <b>Choose</b> <br />
 ![Create skill 02](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-skill-02.png)
 7.	Click <b>Invocation</b> and enter value for <b>Skill Inovcation Name</b>
 <br />    a.	Should be common words
