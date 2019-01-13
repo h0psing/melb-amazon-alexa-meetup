@@ -9,10 +9,10 @@
 4.	Select <b>AWS Serverless Application Repository</b> and click 
 <b>alexa-skills-ski-nodejs-factskill</b> <br />
 ![Create function 02](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-02.png)
-5.	Under <b>Application settings:</b> enter <b>Application name:</b> alexa-meetup-workshop-nodejs-factskill-function
+5.	Under <b>Application settings:</b> enter <b>Application name:</b> alexa-meetup-workshop-nodejs-factskill
 ![Create function 03](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-03.png)
 6.	Click <b>Deploy</b>
-<br />  a.	Watch loading resources to create code, assign the role (permissions) then the trigger to tell lambda function to be triggered by Alexa
+<br />  a.	Wait for resources to show <b>CREATE_COMPLETE</b> 
 ![Create function 04](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-04.png)
 7.	Go back to Applications and open application
 8.	Note the arn:aws:lambda:us-east-1:1234567890:function:workshop-getting-started-alexa-skill
