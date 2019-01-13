@@ -13,7 +13,7 @@ We're going to need to configure both our Alexa skill and AWS, which will requir
 3.	Click <b>Create Skill</b>
 4.	Enter <b>Skill name:</b> Workshop Fact Skill 
 <br />          <b>Default language:</b> English (AU)
-<br />         <b>Skill model:</b> Custom
+<br />         <b>Skill model:</b> Custom <br />
 ![Create skill 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-skill-01.png)
 5.	Click <b>Create skill</b>
 6.	Select: <b>Start from scratch</b> and click <b>Choose</b>
