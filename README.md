@@ -45,7 +45,7 @@ We're going to need to configure both our Alexa skill and AWS, which will requir
 14.	Click <b>Build Model</b>
 15.	Click <b>Endpoint</b>
 16.	Note the  AWS Lambda ARN <br />
-![Note ARN Endpoint 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/note-arn-endpoint-01.png)
+![Note ARN Endpoint 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/arn-endpoint-01.png)
 
 *Ready?* Move to the `step-2` branch to create your Alexa Skill.
 
