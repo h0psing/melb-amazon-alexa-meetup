@@ -35,14 +35,17 @@ const GetNewFactHandler = {
 
 ### Response variables
 
+```
 const SKILL_NAME = 'Space Facts';
 const GET_FACT_MESSAGE = 'Here\'s your fact: ';
 const HELP_MESSAGE = 'You can say tell me a space fact, or, you can say exit... What can I help you with?';
 const HELP_REPROMPT = 'What can I help you with?';
 const STOP_MESSAGE = 'Goodbye!';
+```
 
 ### Fact data source
 
+```
 const data = [
   'A year on Mercury is just 88 days long.',
   'Despite being farther from the Sun, Venus experiences higher temperatures than Mercury.',
@@ -58,10 +61,11 @@ const data = [
   'The temperature inside the Sun can reach 15 million degrees Celsius.',
   'The Moon is moving approximately 3.8 cm away from our planet every year.',
 ];
-
+```
 
 ### Handler declarations
 
+```
 exports.handler = skillBuilder
   .addRequestHandlers(
     GetNewFactHandler,
@@ -71,7 +75,7 @@ exports.handler = skillBuilder
   )
   .addErrorHandlers(ErrorHandler)
   .lambda();
-
+```
 
 
 
