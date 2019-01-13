@@ -35,7 +35,7 @@ Create your free Alexa developer account with the instructions below before we b
 - Sign into your Alexa developer account at developer.amazon.com/alexa-skills-kit/anz using the same email for your www.amazon.com.au account.
 - Sign up for an AWS account if you don't already have one here: https://aws.amazon.com.  Complete the verification steps for enabling an Amazon verified account, including payment details, profile info, and phone verification as applicable.
 
-*Ready?* Move to the `step1` branch to get started with your Alexa Skill and AWS config.
+*Ready?* Move to the `step-1` branch to create your Alexa Skill.
 
 ![switch branch](/images/Switch-branch-01.png)
 
