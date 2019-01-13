@@ -8,9 +8,9 @@
 ![Code Index 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/code-index-01.png)
 
 
-
 ### Intent handler - it should correspond to the Alexa Dev intent 
 
+```
 const GetNewFactHandler = {
   canHandle(handlerInput) {
     const request = handlerInput.requestEnvelope.request;
@@ -30,7 +30,7 @@ const GetNewFactHandler = {
       .getResponse();
   },
 };
-
+```
 
 
 ### Response variables
