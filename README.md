@@ -1,13 +1,12 @@
 # Getting Started: Develop an Amazon Alexa Skill
 
-# Who are we?
-Welcome to the [Melbourne Amazon Alexa Meetup](https://www.meetup.com/Melbourne-Amazon-Alexa-Meetup) workshop: Getting Started: Develop an Amazon Alexa Skill.
-
 # What is this?
-This repo contains code and instructions to build an Amazon Alexa Skill with Node JS code hosted on AWS (Lambda).  It is split into 3 branches, each containing instructions for the stages to get an Alexa skill published.
+This is the <b>Getting Started: Develop an Amazon Alexa Skill workshop</b> as part of the events organised by the[Melbourne Amazon Alexa Meetup](https://www.meetup.com/Melbourne-Amazon-Alexa-Meetup).
+
+In the repo contains instructions and assets to build for first Amazon Alexa skill with Node JS code hosted on AWS (Lambda).  It is split into 3 branches, each containing instructions to get your first Alexa skill published.
 
 ## What is an Alexa skill?
-Alexa is Amazon's voice service and the brain behind millions of devices including Amazon Echo. Alexa provides capabilities, or skills, that enable customers to create a more personalised experience. There are now thousands of skills available in Australia and New Zealand, from brands like Qantas, Westpac, Sky TV, NAB, Taste.com.au, hipages, Dimmi, SBS News, as well as innovative designers and developers.
+Alexa is Amazon's voice service and the brain behind millions of devices including Amazon Echo. Alexa provides capabilities, or skills, that enable customers to create a more personalised experience. There are now thousands of skills available in around the world, including in Australia and New Zealand, from brands like Qantas, Westpac, Sky TV, NAB, Taste.com.au, hipages, Dimmi, SBS News, as well as innovative designers and developers.
 
 ![voice hub](/images/Voice-Hub.png)
 
