@@ -1,5 +1,4 @@
-# Step 4: Code review
-
+# Step 4: Custom facts to your own skill
 
 ## Review Node JS Code
 1.	Navigate back to https://aws.amazon.com and sign in
