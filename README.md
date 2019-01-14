@@ -11,7 +11,7 @@
 ### Intent handler - it should correspond to the Alexa Dev intent 
 
 ```
-const GetNewFactHandler = {
+const <b>GetNewFactHandler</b> = {
   canHandle(handlerInput) {
     const request = handlerInput.requestEnvelope.request;
     return request.type === 'LaunchRequest'
@@ -32,6 +32,7 @@ const GetNewFactHandler = {
 };
 ```
 
+![Intent Screen 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/intent-screen-01.png)
 
 ### Response variables
 
