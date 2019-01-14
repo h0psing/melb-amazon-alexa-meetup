@@ -9,9 +9,9 @@
 ![Distribution 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/distribution-01.png)
 ![Distribution 02](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/distribution-02.png)
 6. Fill in Privacy
-![Priavcy 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/privacy-01.png)
+![Privacy 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/privacy-section-01.png)
 7. Fill in Availability section
-![Availablity 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/availablity-01.png)
+![Availability 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/availablility-01.png)
 8. Complete Validation, Functional tests and Submission.
 
 ## Congratulations, you have successfully completed the process and should receive confirmation of your Alexa skill being published to the Alexa skill store soon. 
