@@ -21,7 +21,7 @@
 10.	Copy the <b>AWS Lambda ARN:</b> arn:aws:lambda:ap-southeast-2:433148507647:function:aws-serverless-repository-alexaskillskitnodejsfact-XXXXXXXXXXXXX
 ![Create function 06](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-06.png)
 
-*Completed step-2?* Move to the `step-3` branch to create complete your Alexa skill and also configure permissions in IAM (Identity  and Access Management.
+*Completed step-2?* Move to the `step-3` branch to configure the skill to call the lambda function.
 
 
 
