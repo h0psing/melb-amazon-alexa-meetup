@@ -79,7 +79,7 @@ exports.handler = skillBuilder
   .lambda();
 ```
 
-*Completed step-4?* Move to the `step-5` to publish your skill to the ALexa sklls store.
+*Completed step-4?* Move to the `step-5` to publish your skill to the Alexa sklls store.
 
 
 
