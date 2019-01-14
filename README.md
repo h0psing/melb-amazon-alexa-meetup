@@ -51,16 +51,5 @@ We're going to need to configure both our Alexa skill and AWS, which will requir
 
 
 
-17.	Default Region: arn:aws:lambda:us-east-1:1234567890:function:workshop-getting-started-alexa-skill
-
-
-
-
-18.	Click <b>Save Endpoints</b>
-19.	Click <b>Test</b>
-20.	Skill testing is enabled in: Development
-<br />  a.	Also can test directly on Amazon Echo device logged in as the same email
-21.	Open workshop fact skill
-22.	Check JSON input and output
 
 
