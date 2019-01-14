@@ -8,11 +8,13 @@
 5.	Fill in the form and click <b>Save and continue</b> <br />
 ![Distribution 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/distribution-01.png)
 ![Distribution 02](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/distribution-02.png)
+6. Fill in Privacy
 
+7. Fill in Availability section
 
+8. Complete Validation, Functional tests and Submission.
 
-
-## Congratulations, you have successfully created your Alexa skill
+## Congratulations, you have successfully completed the process and should receive confirmation of your Alexa skill being published to the Alexa skill store soon. 
 
 
 
