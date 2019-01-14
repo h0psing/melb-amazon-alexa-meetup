@@ -8,10 +8,11 @@
 ![Code Index 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/code-index-01.png)
 
 
-### Intent handler - it should correspond to the Alexa Dev intent 
+### Intent Handler - GetNewFactHandler
+Utterances that match the GetNewFactHandler will call the Node JS code within the handler below.
 
 ```
-const <b>GetNewFactHandler</b> = {
+const GetNewFactHandler = {
   canHandle(handlerInput) {
     const request = handlerInput.requestEnvelope.request;
     return request.type === 'LaunchRequest'
@@ -32,9 +33,7 @@ const <b>GetNewFactHandler</b> = {
 };
 ```
 
-![Intent Screen 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/intent-screen-01.png)
-
-### Response variables
+### Response Variables
 
 ```
 const SKILL_NAME = 'Space Facts';
