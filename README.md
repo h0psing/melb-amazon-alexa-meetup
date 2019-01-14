@@ -9,7 +9,8 @@
 
 
 ### Intent Handler - GetNewFactHandler
-Utterances that match the GetNewFactHandler will call the Node JS code within the handler below.
+Utterances (e.g. a fact, tell me a fact) that match the GetNewFactHandler will call the Node JS code within the handler below.
+- <b>speechOutput</b> is the Alexa repsonse built using <b>Response Variables</b> and <b>Fact Data Array</b> below
 
 ```
 const GetNewFactHandler = {
@@ -34,7 +35,6 @@ const GetNewFactHandler = {
 ```
 
 ### Response Variables
-
 ```
 const SKILL_NAME = 'Space Facts';
 const GET_FACT_MESSAGE = 'Here\'s your fact: ';
@@ -43,8 +43,7 @@ const HELP_REPROMPT = 'What can I help you with?';
 const STOP_MESSAGE = 'Goodbye!';
 ```
 
-### Fact data source
-
+### Fact Data Array
 ```
 const data = [
   'A year on Mercury is just 88 days long.',
@@ -64,7 +63,7 @@ const data = [
 ```
 
 ### Handler declarations
-
+Ensure the intent handlers are added to the <b>addRequestHandlers</b> method.
 ```
 exports.handler = skillBuilder
   .addRequestHandlers(
