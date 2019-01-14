@@ -34,6 +34,8 @@ const GetNewFactHandler = {
 ```
 
 ### Response Variables
+- Personalise your repsonse in your skill below
+
 ```
 const SKILL_NAME = 'Space Facts';
 const GET_FACT_MESSAGE = 'Here\'s your fact: ';
@@ -43,6 +45,8 @@ const STOP_MESSAGE = 'Goodbye!';
 ```
 
 ### Fact Data Array
+- Replace facts below with your own personalised facts
+
 ```
 const data = [
   'A year on Mercury is just 88 days long.',
@@ -75,7 +79,7 @@ exports.handler = skillBuilder
   .lambda();
 ```
 
-
+*Completed step-4?* Move to the `step-5` to publish your skill to the ALexa sklls store.
 
 
 
