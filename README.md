@@ -32,7 +32,7 @@ This skill uses the following two platforms:
 
 Create your free Alexa developer account with the instructions below before we begin:
 - Go to www.amazon.com.au and create an account.
-- Sign into your Alexa developer account at www.developer.amazon.com using the same email for your www.amazon.com.au account.
+- Sign into your Alexa developer account at https://developer.amazon.com using the same email for your www.amazon.com.au account.
 - Sign up for an AWS account if you don't already have one here: https://aws.amazon.com.  Complete the verification steps for enabling an Amazon verified account, including payment details, profile info, and phone verification as applicable.
 
 *Ready?* Move to the `step-1` branch to create your Alexa Skill.
