@@ -16,7 +16,10 @@
 ![Create function 04](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-04.png)
 7.	Click on <b>Lambda</b> in the breadcrumb
 8.	Click on <b>Applications</b> in the LH navigation menu
-9.	Click on created application <b>aws-serverless-repository-alexaskillskitnodejsfact-XXXXXXXXXXXXX</b> 
+9.  Click on created application: serverlessrepo-alexa-meetup-workshop-nodejs-factskill
+10. Scroll down to Resources and confirm the Lambda Function <b>Physical ID</b>
+11. Click on <b>Functions</b> in the LH navigation menu
+12.	Click on created function <b>aws-serverless-repository-alexaskillskitnodejsfact-XXXXXXXXXXXXX</b> 
 ![Create function 05](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-05.png)
 10.	Copy the <b>AWS Lambda ARN:</b> arn:aws:lambda:ap-southeast-2:433148507647:function:aws-serverless-repository-alexaskillskitnodejsfact-XXXXXXXXXXXXX
 ![Create function 06](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-06.png)
