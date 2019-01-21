@@ -19,6 +19,6 @@
 
 ## Congratulations, you have successfully created your Alexa skill
 
-
+Completed step-3? Move to the step-4 to Customise facts for your own skill.
 
 
