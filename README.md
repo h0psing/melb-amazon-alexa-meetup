@@ -47,7 +47,7 @@ We're going to need to configure both our Alexa skill and AWS, which will requir
 16.	Note the  AWS Lambda ARN <br />
 ![Note ARN Endpoint 01](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/arn-endpoint-01.png)
 
-*Completed step-1?* Move to the `step-2` branch to create your lambda function and we will come back to the endpoint to finalise.
+*Completed step-1?* Move to the [`step-2`](https://github.com/h0psing/melb-amazon-alexa-meetup/tree/Step-2) branch to create your lambda function and we will come back to the endpoint to finalise.
 
 
 
