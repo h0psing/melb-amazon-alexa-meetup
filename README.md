@@ -19,6 +19,6 @@
 
 ## Congratulations, you have successfully created your Alexa skill
 
-Completed step-3? Move to the step-4 to Customise facts for your own skill.
+Completed step-3? Move to the [step-4](https://github.com/h0psing/melb-amazon-alexa-meetup/tree/Step-3) to Customise facts for your own skill.
 
 
