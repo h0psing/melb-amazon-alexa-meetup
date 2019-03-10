@@ -79,7 +79,7 @@ exports.handler = skillBuilder
   .lambda();
 ```
 
-*Completed step-4?* Move to the `step-5` to publish your skill to the Alexa sklls store.
+*Completed step-4?* Move to the [`step-5`](https://github.com/h0psing/melb-amazon-alexa-meetup/tree/Step-5-Publish-skill) to publish your skill to the Alexa sklls store.
 
 
 
