@@ -24,7 +24,7 @@
 10.	Copy the <b>AWS Lambda ARN:</b> arn:aws:lambda:ap-southeast-2:433148507647:function:aws-serverless-repository-alexaskillskitnodejsfact-XXXXXXXXXXXXX
 ![Create function 06](https://github.com/h0psing/melb-amazon-alexa-meetup/blob/master/images/Create-function-06.png)
 
-*Completed step-2?* Move to the `step-3` branch to configure the skill to call the lambda function.
+*Completed step-2?* Move to the [`step-3`](https://github.com/h0psing/melb-amazon-alexa-meetup/tree/Step-3) branch to configure the skill to call the lambda function.
 
 
 
