@@ -1,9 +1,9 @@
 # Step 1: Create Alexa Skill
 
 As a first step, we're going to create an Alexa Skill and introduce you to the following key components: 
-- Invocation name
-- Intents
-- Utteranes
+- [Invocation name](https://developer.amazon.com/docs/custom-skills/choose-the-invocation-name-for-a-custom-skill.html)
+- [Intents](https://developer.amazon.com/docs/custom-skills/create-intents-utterances-and-slots.html#create-intent)
+- [Utterances](https://developer.amazon.com/docs/custom-skills/best-practices-for-sample-utterances-and-custom-slot-type-values.html) 
 
 We're going to need to configure both our Alexa skill and AWS, which will require a bit of back and forth between the two services. Let's start with creating a new Alexa skill.
 
