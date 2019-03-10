@@ -1,7 +1,7 @@
 # Getting Started: Develop an Amazon Alexa Skill
 
 # What is this?
-This is the <b>Getting Started: Develop an Amazon Alexa Skill workshop</b> as part of the events organised by the [Melbourne Amazon Alexa Meetup](https://www.meetup.com/Melbourne-Amazon-Alexa-Meetup).  Please click on the link to join the meetup and attend to win an Amazon Echo at our first meetup on February 21, 2019.
+This is the <b>Getting Started: Develop an Amazon Alexa Skill workshop</b> as part of the events organised by the [Melbourne Amazon Alexa Meetup](https://www.meetup.com/Melbourne-Amazon-Alexa-Meetup).  Please click on the link to join the meetup and become part of our growing community.
 
 The repository contains instructions and assets to build for first Amazon Alexa skill with Node JS code hosted on AWS (Lambda).  It is split into 3 branches, each containing instructions to get your first Alexa skill published.
 
